@@ -4,7 +4,7 @@ The first thing to do is to clone the repository:
 
 ```sh
 $ git clone https://github.com/MahshadAzizi/HPDS.git
-$ cd Negarkhodro
+$ cd HPDS
 ```
 
 ## How to run the app:
